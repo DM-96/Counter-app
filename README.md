@@ -15,4 +15,4 @@ Una semplice applicazione web che simula un contatore. Permette di aumentare o d
 ## Come provare
 1. Clona il repository:  
    ```bash
-   git clone https://github.com/TuoUsername/counter-app.git
+   git clone https://github.com/DM-96/counter-app.git
