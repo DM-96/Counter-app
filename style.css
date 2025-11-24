@@ -1,0 +1,22 @@
+     body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        #counter-container {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 24px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 24px;
+            cursor: pointer;
+        }
+        #display {
+            min-width: 50px;
+            text-align: center;
+        }
