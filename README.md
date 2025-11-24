@@ -10,7 +10,7 @@ Una semplice applicazione web che simula un contatore. Permette di aumentare o d
 - Aggiornamento dinamico del display
 
 ## Screenshot
-![Screenshot del Counter](screenshot.png)
+![Screenshot del Counter](Screenshot.png)
 
 ## Come provare
 1. Clona il repository:  
